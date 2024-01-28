@@ -37,7 +37,7 @@ Creamos en equipo un ecommerce de venta online de videojuegos físicos y digital
 
 ## 📫 Contacto
 
-<a href="https://www.linkedin.com/in/lautaro-bunkowski/" target="blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/vladimiresquivelandrade/" target="blank">LinkedIn</a>
 <br/>
 
 Gracias por visitar mi perfil. ¡Estoy ansioso por nuevas colaboraciones y oportunidades de aprendizaje!
