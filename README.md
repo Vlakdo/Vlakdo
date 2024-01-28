@@ -29,16 +29,18 @@ Pokedex realizado con React, contiene paginado, filtros, ordenamiento del lado d
 ...
 ## 🛠️ Habilidades
 
-* HTML
-* CSS
+* Unity3D
+* C#
+* C++
 * JavaScript
 * React
 * Redux
 * Node.js
 * Express
-* Tailwind CSS
 * Sequelize
 * PostgreSQL
+* HTML
+* CSS
 
 ## 📫 Contacto
 
