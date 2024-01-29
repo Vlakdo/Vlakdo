@@ -2,7 +2,7 @@
 ¡Bienvenido a mi perfil de GitHub!
 
 ## 🎓 Sobre Mí
-Soy un apasionado desarrollador Full Stack, graduado del bootcamp SOY HENRY con la modalidad part-time. Durante mi experiencia en el bootcamp, adquirí conocimientos sólidos en diversas tecnologías web modernas, formándome como un desarrollador versátil y capaz de enfrentar desafíos complejos.
+Soy un apasionado desarrollador de videojuegos y Full Stack Developer, graduado del bootcamp SOY HENRY con la modalidad part-time. Durante mi experiencia en el bootcamp, adquirí conocimientos sólidos en diversas tecnologías web modernas, formándome como un desarrollador versátil y capaz de enfrentar desafíos complejos.
 
 ## 🚀 Background
 Mi formación en el bootcamp SOY HENRY me ha proporcionado una base sólida en:
