@@ -8,7 +8,7 @@ Soy un apasionado desarrollador de videojuegos y Full Stack Developer, graduado 
 Mi formación en el bootcamp SOY HENRY me ha proporcionado una base sólida en:
 
 Desarrollo Frontend y Backend
-Tecnologías como HTML, CSS, JavaScript, React, Tailwind CSS, Redux, Node.js, Express, Sequelize y PostgreSQL.
+Tecnologías como HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize y PostgreSQL.
 Estoy emocionado por aplicar estos conocimientos en proyectos desafiantes y seguir aprendiendo cada día.
 
 ## 🌟 Proyectos Destacados
